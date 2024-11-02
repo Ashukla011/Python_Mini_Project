@@ -1,0 +1,6 @@
+{"metadata":{
+    "regions": ["North", "South", "East", "West"],
+    "sales": [10000, 15000, 12000, 18000],
+    "growth": [10, 15, 12, 18]
+  }}
+  
